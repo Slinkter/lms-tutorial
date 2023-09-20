@@ -1,5 +1,5 @@
 const TestPage = () => {
-  return <div>this is Test Page</div>;
+  return <div>this should unprotectd </div>;
 };
 
 export default TestPage;
